@@ -101,7 +101,7 @@ public class BeanFactory {
         beanDefined.setClassPath("Teacher");
         beanDefined.setScope("prototype");
         beanDefined.setFactoryBean("factory");
-        beanDefined.setFactoryMethod("createTeacher2");
+        beanDefined.setFactoryMethod("createTeacher");
         /**
          * 获取工厂类
          */
